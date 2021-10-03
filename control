@@ -1,0 +1,8 @@
+Package: com.nscake.tictachelper
+Name: TicTacHelper
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Forward Yik Yak's push notifications to Tic Tac
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Author: Tanner Bennett <thepantsthief@me.com>
+Section: Tweaks
